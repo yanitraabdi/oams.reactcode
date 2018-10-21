@@ -19,7 +19,7 @@ export class CustomerTransaction extends React.Component {
             <Grid.Column>
                 <Segment.Group horizontal>
                     <Segment inverted color='orange'>Invoice Aktif</Segment>
-                    <Segment inverted color='red'>Terlambat</Segment>
+                    <Segment inverted color='red'>Overdue</Segment>
                 </Segment.Group>
             </Grid.Column>
             <Grid.Column>
