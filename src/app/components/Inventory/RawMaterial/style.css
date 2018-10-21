@@ -1,0 +1,7 @@
+.cardRed {
+    border-color: red !important;
+}
+
+.cardRed:hover {
+    background-color: red;
+}
